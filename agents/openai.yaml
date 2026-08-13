@@ -1,0 +1,4 @@
+interface:
+  display_name: "PocketMBA"
+  short_description: "Diagnose business coherence against its market"
+  default_prompt: "Use $pocketmba to diagnose this undertaking against its relevant market and recommend the most coherent movement."
