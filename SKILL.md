@@ -1,6 +1,7 @@
 ---
 name: pocketmba
 description: Diagnose whether a product, venture, project, institution, OSS contribution, or market-facing decision forms a coherent business shape. Use for product-market fit, positioning, market gaps, competitive landscape, go-to-market, business model, unit economics, business implications of identity choices, capability imbalance, "is this worth pursuing?", "how should this fit the market?", or PocketMBA/business-plane requests. Derives a relevant market reference population, compares the actual system relationally, causally adjudicates omissions and surpluses, and recommends dependency-ordered movements without collapsing the result into a score.
+license: MIT
 ---
 
 # PocketMBA
